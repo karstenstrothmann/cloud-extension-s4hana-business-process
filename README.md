@@ -22,7 +22,7 @@ John who is an employee of Business Partner Validation Firm iCredible, which is 
 
 - Compute intensive processing available on demand (serverless environment).
 
-- Vendor personnel needs access to only custom app
+- Vendor personnel needs access to only custom  app
 
 ## Architecture
 

@@ -24,8 +24,6 @@ steps:
 
   artifactPrepareVersion:
     versioningType: cloud_noTag
-
-  artifactPrepareVersion:
     buildTool: 'mta'
   npmExecute:
     dockerImage: 'ppiper/node-browsers:v2'
